@@ -17,7 +17,7 @@ git@github.com:Kevam97/swapps-test-1.git
 ```
 Then just open index.html
 
-## Endopoitns
+## Endpoitns
  * [Books] https://openlibrary.org/search.json?q=
  * [Author] https://openlibrary.org/search.json?author=
  
